@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607488296596",
+    "firebase_url": "https://georeferences-eb9bc.firebaseio.com",
+    "project_id": "georeferences-eb9bc",
+    "storage_bucket": "georeferences-eb9bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607488296596:android:83e5ad4a9f28322c",
+        "android_client_info": {
+          "package_name": "com.android.supay.geofences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607488296596-scd7tacvjjsg26l61nkv8aiacinph23n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.supay.geofences",
+            "certificate_hash": "d530fd2e554f165fe0adfb2750d22ad8babe4127"
+          }
+        },
+        {
+          "client_id": "607488296596-8nsmdld29lk6nochslq956i8beojdbn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMAS_83R7vmxY4ZwLtCIynFAgBdrB0sNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607488296596-8nsmdld29lk6nochslq956i8beojdbn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
